@@ -1,0 +1,26 @@
+Hi guys, thank you for checking out my little project! 😊
+
+I want to explain what **modulo** means, so you can understand this line of code:
+```js
+index = (index + 1) % quotes.length;
+
+> Modulo in real life is like this:
+Let’s say you have a certain amount of money, and you want to buy something that costs a fixed price.
+You check how many times you can buy it.
+If your money is not enough to buy even one, then you keep all your money.
+That amount you’re left with — that’s the modulo.
+
+
+
+> 🔁 It’s the remainder you have after buying as many items as possible.
+
+🧠 Example:
+
+If you have 17$, and one croissant costs 4 $:
+You can buy 4 croissants (4 + 4 + 4 + 4 = 16), and you’ll be left with 1$.
+
+So:
+
+17 % 4 = 1 ✅
+
+

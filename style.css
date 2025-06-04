@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+html,body {
+    height: 100vh;
+    font-family: 'Outfit';
+    background: orange;
+}
+.text-change-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.text-change-container p {
+    font-weight: 600;
+    font-size: 20px;
+}
